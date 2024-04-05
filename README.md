@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/im2lm9fkrf0xh398?svg=true)](https://ci.appveyor.com/project/Hav2808/hw-destructuring)
+
 ## Destructuring
 
 ### Легенда
